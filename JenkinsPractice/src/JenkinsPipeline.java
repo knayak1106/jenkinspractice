@@ -5,7 +5,8 @@ public class JenkinsPipeline {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to Learn Jenkins Pipeline");
 		
-		System.out.print("Eclipse is configured with Git");
+		System.out.println("Eclipse is configured with Git");
+		System.out.print("Eclipse is connected with GitHub");
 
 	}
 
