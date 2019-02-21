@@ -8,6 +8,7 @@ public class JenkinsPipeline {
 		System.out.println("Eclipse is configured with Git");
 		System.out.print("Eclipse is connected with GitHub");
 		System.out.print("Unable to commit and push");
+		System.out.print("Git push worked but by force");
 
 	}
 
